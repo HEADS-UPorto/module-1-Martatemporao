@@ -1,2 +1,2 @@
-a <- c('Hello, World!')
-print(a)
+a <- c("Hello, World!")
+a
